@@ -1,0 +1,5 @@
+
+1) Capomulin had the best survival rate during treatment
+2) Capomulin had the slowest rate of Metastatic spread during treatment. 
+3) Tumor response to treatment increased with the number of days in case of the drugs: Capomulin, Infubinol, Ketapril and the 
+Tumor response to treatment decreased with the time in case of a Placebo.
